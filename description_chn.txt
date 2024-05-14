@@ -1,0 +1,11 @@
+高产翡翠塔
+
+作者：Archer30
+适用平台：ERA 3.9.7+
+版本：v1.1
+
+这个mod提供了两个翡翠塔的调节功能。默认情况下：
+- 翡翠塔每周刷新一次。
+- 增强同一个生物时，不增加额外的费用。
+
+两个选项都可以在 游戏根目录\Mods\Productive Emerald Tower\Lang\productive emerald tower.json 中更改（json文件用ERM编辑器或者记事本打开）。
